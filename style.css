@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  color: #F0F0F0;
+}
+
+p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #C8C8C8;
+  /*font-weight: lighter;*/
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #42c42b;
+  text-decoration: underline;
+}
+.page-description{
+  margin-top: 50px;
+}
+
+
+.row {
+  margin-top: 50px;
+  /*padding: 100;*/
+}
+
+.gallery-container {
+  margin-bottom: 100px;
+}
+
