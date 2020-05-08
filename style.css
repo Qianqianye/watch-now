@@ -11,6 +11,12 @@ p {
   /*font-weight: lighter;*/
 }
 
+p2 {
+  font-size: 13px;
+font-style: italic;
+color: #707070;
+}
+
 .page-description{
   margin-top: 50px;
 }
