@@ -3,11 +3,20 @@ body {
   color: #F0F0F0;
 }
 
+
 p {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 10px;
+  /*margin-bottom: 20px;*/
   color: #C8C8C8;
   /*font-weight: lighter;*/
+}
+
+.page-description{
+  margin-top: 50px;
+}
+
+.title{
+  margin-bottom: 40px;
 }
 
 a {
@@ -19,9 +28,7 @@ a:hover {
   color: #42c42b;
   text-decoration: underline;
 }
-.page-description{
-  margin-top: 50px;
-}
+
 
 
 .row {
@@ -30,6 +37,13 @@ a:hover {
 }
 
 .gallery-container {
+  margin-bottom: 60px;
   margin-bottom: 100px;
 }
+
+/*iframe {
+  height: 250px;
+  width: 380px;
+}*/
+
 
